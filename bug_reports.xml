@@ -1,1 +1,9 @@
-
+<?xml version="1.0"?>
+<bug_report>
+  <Summary>Не работает кнопка отправки заказа</Summary>
+  <Steps_to_Reproduce>1. Открыть сайт 2. Выбрать товар 3. Добавить товар в корзину 4. Указать количетво товара 5. Попытаться нажать кнопку отправки заказа</Steps_to_Reproduce>
+  <Actual_result>Копка не активна</Actual_result>
+  <Expected_Result>кнопка нажимается, можно сделать заказ</Expected_Result>
+  <Priority>High</Priority>
+  <Severity>Critical</Severity>
+</bug_report>
